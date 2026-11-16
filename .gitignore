@@ -1,0 +1,12 @@
+# Dependências
+node_modules/
+
+# Firebase cache / log
+.firebase/
+deploy-log.txt
+
+# Arquivos do Sistema Operacional / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" fill="none">
+  <!-- Padrão halftone com pontos azuis decrescentes a partir do canto (0,0) -->
+  <g fill="#81BAE0">
+    <!-- Coluna 0 -->
+    <circle cx="15" cy="15" r="5" opacity="0.85" />
+    <circle cx="15" cy="45" r="4.5" opacity="0.8" />
+    <circle cx="15" cy="75" r="4" opacity="0.75" />
+    <circle cx="15" cy="105" r="3.5" opacity="0.65" />
+    <circle cx="15" cy="135" r="3" opacity="0.55" />
+    <circle cx="15" cy="165" r="2.5" opacity="0.45" />
+    <circle cx="15" cy="195" r="2" opacity="0.3" />
+    <circle cx="15" cy="225" r="1.5" opacity="0.2" />
+
+    <!-- Coluna 1 -->
+    <circle cx="45" cy="15" r="4.5" opacity="0.8" />
+    <circle cx="45" cy="45" r="4" opacity="0.75" />
+    <circle cx="45" cy="75" r="3.5" opacity="0.7" />
+    <circle cx="45" cy="105" r="3" opacity="0.6" />
+    <circle cx="45" cy="135" r="2.5" opacity="0.5" />
+    <circle cx="45" cy="165" r="2" opacity="0.38" />
+    <circle cx="45" cy="195" r="1.5" opacity="0.25" />
+
+    <!-- Coluna 2 -->
+    <circle cx="75" cy="15" r="4" opacity="0.75" />
+    <circle cx="75" cy="45" r="3.5" opacity="0.7" />
+    <circle cx="75" cy="75" r="3" opacity="0.6" />
+    <circle cx="75" cy="105" r="2.5" opacity="0.5" />
+    <circle cx="75" cy="135" r="2" opacity="0.4" />
+    <circle cx="75" cy="165" r="1.5" opacity="0.28" />
+
+    <!-- Coluna 3 -->
+    <circle cx="105" cy="15" r="3.5" opacity="0.65" />
+    <circle cx="105" cy="45" r="3" opacity="0.6" />
+    <circle cx="105" cy="75" r="2.5" opacity="0.5" />
+    <circle cx="105" cy="105" r="2" opacity="0.38" />
+    <circle cx="105" cy="135" r="1.5" opacity="0.25" />
+
+    <!-- Coluna 4 -->
+    <circle cx="135" cy="15" r="3" opacity="0.55" />
+    <circle cx="135" cy="45" r="2.5" opacity="0.48" />
+    <circle cx="135" cy="75" r="2" opacity="0.38" />
+    <circle cx="135" cy="105" r="1.5" opacity="0.25" />
+
+    <!-- Coluna 5 -->
+    <circle cx="165" cy="15" r="2.5" opacity="0.45" />
+    <circle cx="165" cy="45" r="2" opacity="0.38" />
+    <circle cx="165" cy="75" r="1.5" opacity="0.25" />
+
+    <!-- Coluna 6 -->
+    <circle cx="195" cy="15" r="2" opacity="0.3" />
+    <circle cx="195" cy="45" r="1.5" opacity="0.25" />
+
+    <!-- Coluna 7 -->
+    <circle cx="225" cy="15" r="1.5" opacity="0.2" />
+  </g>
+</svg>

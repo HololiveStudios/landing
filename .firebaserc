@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "gen-lang-client-0469025077"
+  },
+  "targets": {
+    "gen-lang-client-0469025077": {
+      "hosting": {
+        "nswind": [
+          "nswind"
+        ],
+        "nsengenharia": [
+          "nsengenharia"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
